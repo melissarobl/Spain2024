@@ -1,4 +1,4 @@
-let spainCoordinates = [38.9848, -6.340]
+let spainCoordinates = [39.9862, -5.350]
 let zoomLevel = 6 //1 = whole world to 20 = city blocks
 
 let map = L.map('spain2024-map').setView(spainCoordinates, zoomLevel)
